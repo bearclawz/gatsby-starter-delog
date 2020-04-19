@@ -20,4 +20,4 @@ Pripraveny:
 2. *Olej do panvu*
 3. *...hned to bude!!*
 
-![](/assets/gadogado.jpg "prostreno gado gado")
+![]( "prostreno gado gado")
