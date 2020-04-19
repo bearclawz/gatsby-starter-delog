@@ -5,7 +5,7 @@ date: 2020-04-19T16:01:33.176Z
 title: Gado Gado s domaci peceny brambor
 thumbnail: /assets/thaicurryred.jpg
 ---
-Ahojky, tady muj oblibeny recept pro **gado gado**. Gado gadoma koreni v Indonesky kuchyn. Ten variant je spis Indonesky-Holandsky *fusion cooking.* A dneska to varime se Zuzankovou domaci hranolkemy (recept najdes) Uz mate hlad? Jdeme na to!
+Ahojky, tady muj oblibeny recept pro **gado gado**. Gado gadoma koreni v Indonesky kuchyn. Ten variant je spis Indonesky-Holandsky *fusion cooking.* A dneska to varime se Zuzankovou domaci hranolkemy (recept najdes [tady](https://recepty.vareni.cz/americke-brambory/)) Uz mate hlad? Jdeme na to!
 
 Ingredience:
 
