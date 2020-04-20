@@ -31,7 +31,7 @@ export default ({ children }) => {
             ❤️
           </span>{' '}
           Zuzana Senkyrka and{' '}
-          <a href='https://kevinsisland.netlify.com/'>Clawz Laboratories</a>{' '}
+          <a href='https://captainclawz.netlify.com/'>Clawz Laboratories</a>{' '}
           &bull; Delog starter
           crafted by <a href='https://w3layouts.com'>W3Layouts</a>
         </p>
