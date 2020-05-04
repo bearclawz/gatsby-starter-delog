@@ -6,10 +6,8 @@ title: zuzanka je lina
 ---
 ### Zuzanka je lina a nechce psat zadny recepty!
 
-
-
 smula 
 
-
-
 :(((
+
+[link](https://www.dropbox.com/s/o9y8vhwpa4mhe5c/IMG_1132.JPG?dl=0)
