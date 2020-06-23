@@ -6,3 +6,5 @@ title: chilli omáčka
 thumbnail: /assets/img_20200530_184103.jpg
 ---
 **CO POTŘEBUJEME**
+
+![](/assets/img_20200530_202114.jpg)
