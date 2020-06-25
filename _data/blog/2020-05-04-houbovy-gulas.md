@@ -1,15 +1,36 @@
 ---
 template: BlogPost
-path: /houbovy-gulasek
+path: /fazolový-guláš
 date: 2020-05-04T20:05:11.454Z
-title: houbovy gulas
+title: FAZOLOVÝ GULÁŠ
+thumbnail: /assets/20200531_154824.jpg
 ---
-## Ahoj, **dneska** novy *recept*
 
 
+#### \~co budeme potřebovat\~
 
-1. jedno
-2. dva
-3. trei
+*cibule*
 
-* ## **vsechno**!!!
+*cesnek*
+
+*rajcata*
+
+*cuketa*
+
+*fazole (já používám 1 plechovku červených a 1 jednu bílých)*
+
+*brambory*
+
+*chilli papricka*
+
+*červená paprika*
+
+*mrkev*
+
+*rýžový olej*
+
+*sůl*
+
+*sušené oregáno*
+
+![](/assets/20200531_154758.jpg)
